@@ -1,2 +1,3 @@
 # Testap
-GitHub
+
+Testap is a repository for some application:x
